@@ -11,4 +11,4 @@ elif n2 > n1 and n2 > n3:
 elif n3 > n1 and n3 > n2: 
     print('terceiro numero maior : ', n3) 
 else: 
-    print('digite apenas numeros')
+    print('os tres numeros são iguais')
